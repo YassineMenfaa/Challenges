@@ -4,7 +4,6 @@ public class AgeClassifier {
 
     public AgeClassifier(){
 
-
     }
 
     public void ageClassifier(int age){
